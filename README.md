@@ -5,7 +5,7 @@
 ## Aggregated Resources
 ### Blogs and Tutorials
 ### Tools
-http://www.producthunt.com/@isaacrlien/collections/slack-tools
+* Currated list of Slack tools on Product Hunt by @isaacrlien : http://www.producthunt.com/@isaacrlien/collections/slack-tools
 
 ## Single Sources - Basic
 ### Blogs and Tutorials
