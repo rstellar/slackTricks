@@ -20,10 +20,10 @@ http://www.producthunt.com/@isaacrlien/collections/slack-tools
 * Getting Started with Slack Bots on sitepoint: http://www.sitepoint.com/getting-started-slack-bots/
 * 
 
-### Selling your team on why to use Slack
+## Selling your team on why to use Slack
 * https://fooplugins.com/slack-team-communication-tool/
 
 
-### FOSS Projects
+## FOSS Projects
 * Slack Tutorial Bot by Michikono : https://github.com/michikono/slackbot-tutorial
 * 
